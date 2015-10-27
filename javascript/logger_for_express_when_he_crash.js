@@ -1,7 +1,7 @@
 //app.js // server start point
 
 //....
-var log = require('./core/log')(module);
+var log = require('path_to_logger.js')(module);
 //....
 
 
@@ -26,7 +26,7 @@ function getLogger(module) {
 		],
 		exceptionHandlers: [
 			new winston.transports.File({
-				filename: 'exceptions.js', // this file will show last errors after crash server 
+				filename: 'exceptions.js', // this file will show last errors after crash server
 				json: true
 			})
 		]
