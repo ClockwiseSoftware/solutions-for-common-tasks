@@ -17,4 +17,5 @@
         и нам нужно дождаться когда они появятся, и только потом запустить процесс
 
 6. [Angular -  Текстовое поле с метками (тегами), возвращает массив ](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/angular_tags_input.js)
+
 [Больше примеров - angular_tags_input](http://mbenford.github.io/ngTagsInput/demos)
