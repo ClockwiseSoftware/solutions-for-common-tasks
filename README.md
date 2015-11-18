@@ -19,3 +19,5 @@
 6. [Angular -  Текстовое поле с метками (тегами), возвращает массив ](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/angular_tags_input.js)
 
     [Больше примеров - angular_tags_input](http://mbenford.github.io/ngTagsInput/demos)
+
+7. [Angular routing без # вместе с ExpressJS](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/angular_without_hash_with_expressjs.js)
