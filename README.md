@@ -21,3 +21,8 @@
     [Больше примеров - angular_tags_input](http://mbenford.github.io/ngTagsInput/demos)
 
 7. [Angular routing без # вместе с ExpressJS](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/angular_without_hash_with_expressjs.js)
+
+
+
+##MongoDB
+1. [Настройка аутентификации в MongoDB](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/mongodb/set_permissions.md)
