@@ -22,7 +22,14 @@
 
 7. [Angular routing без # вместе с ExpressJS](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/angular_without_hash_with_expressjs.js)
 
-8. [Week bumber by year + example sorted out on angular](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/weeksInYear.js) ([in action](http://jsfiddle.net/Hp4W7/2008/))
+8. [Week number by year + example sorted out on angular](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/weeksInYear.js) ([DEMO](http://jsfiddle.net/Hp4W7/2008/))
+
+9. [Скриншот текущего состояния HTML страницы, а также сохранение его как PDF](https://github.com/ClockwiseSoftware/solutions-for-common-tasks/blob/master/javascript/html_screenshot.js)
+
+    [ [Скриншотер](https://html2canvas.hertzen.com) - 
+    [js2PDF](https://github.com/MrRio/jsPDF) - 
+    [js2PDF API](https://mrrio.github.io/jsPDF/doc/symbols/jsPDF.html) ]
+
 
 
 ##MongoDB
